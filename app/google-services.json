@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "582978726350",
+    "firebase_url": "https://shoppinglistal-default-rtdb.firebaseio.com",
     "project_id": "shoppinglistal",
     "storage_bucket": "shoppinglistal.firebasestorage.app"
   },
@@ -12,7 +13,20 @@
           "package_name": "com.aaron.shoppinglistal"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {				
+          "client_id": "582978726350-bj2q6ul0it5i5b5nghr3dj8t4514ehd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaron.shoppinglistal",
+            "certificate_hash": "33e1fd46c216be57640711bfb17557c2f2f6fa41"
+          }
+        },
+        {  				
+          "client_id": "582978726350-2t9ielb4ckafk628ft6dianhrsldkrjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCljD5Zc8WP3W0WxYM_HJgpQDodPpLcL6o"
@@ -20,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {				
+              "client_id": "582978726350-2t9ielb4ckafk628ft6dianhrsldkrjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
